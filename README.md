@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN Stack Technology and I have strong command in Frontend development with Angular with over 4+ years of Experience. <br>Experienced Front-End Developer with 4+ years of experience building scalable web applications using Angular,<br>TypeScript, and JavaScript, delivering high-quality, efficient solutions with a strong focus on performance and user<br>experience; collaborated with Agile, cross-functional teams to resolve critical issues through data-driven analysis and<br>effective communication.
+Experienced Front-End Developer with 4+ years of experience building scalable web applications using Angular,<br>TypeScript, and JavaScript, delivering high-quality, efficient solutions with a strong focus on performance and user<br>experience; collaborated with Agile, cross-functional teams to resolve critical issues through data-driven analysis and<br>effective communication.
 
 
 ## 🌐 Socials:
